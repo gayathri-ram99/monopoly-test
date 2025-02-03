@@ -1,0 +1,11 @@
+Hi there,
+Thank you so much for taking the time to go through my code, I took the whole week to complete as it has been years since i've last coded properly in python.
+
+THE MONOPOLY GAME
+-I used pycharm to complete the code but I did not include the library or venv folder - i did use python 3.12
+-I created a function that chooses between rolls_1.json and rolls_2.json as i thought it was supposed to be an option given scenario.
+-I would prefer if the codes are not shared and hence I have set the repository to prviate as it does contain my full name and directory.
+-The directory in lines 4 and 16 were hardcoded for my directory.
+
+With the best regards,
+Gayathri
